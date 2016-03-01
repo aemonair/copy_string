@@ -1,0 +1,13 @@
+NAME
+       实现strcpy, strncpy - copy a string
+        拷贝字符串
+
+SYNOPSIS
+       #include <string.h>
+
+       实现char *strcpy(char *dest, const char *src);
+        char *my_strcpy(char *dest, const char *src);
+
+       实现char *strncpy(char *dest, const char *src, size_t n);
+        char *my_strncpy(char *dest, const char *src, size_t n);
+
