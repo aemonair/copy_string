@@ -11,3 +11,5 @@ SYNOPSIS
        实现char *strncpy(char *dest, const char *src, size_t n);
         char *my_strncpy(char *dest, const char *src, size_t n);
 
+Usage:
+     make 命令生成test的测试二进制，以及.o文件。
